@@ -1,0 +1,11 @@
+sportstats\service\BaseServiceTest.class
+sportstats\domain\SeasonTest.class
+sportstats\service\AddSeasonByLeagueIdServiceTest.class
+sportstats\service\GetAllSportsServiceTest.class
+sportstats\domain\LeagueTest.class
+sportstats\domain\LeaderboardTest.class
+sportstats\service\AddSportServiceTest.class
+sportstats\service\GetAllSeasonsByLeagueIdServiceTest.class
+sportstats\service\AddLeagueBySportIdServiceTest.class
+sportstats\service\GetAllLeaguesBySportIdServiceTest.class
+sportstats\domain\SportTest.class
